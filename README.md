@@ -31,7 +31,6 @@ A VM emulates a full set of hardware and runs its own guest operating system on 
 A container isolates an application but shares the host's kernel instead of booting its own OS. With no guest OS to run, containers usually carry less overhead.
 
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/67ea0dc5-0d38-4b8b-a7f7-ed4c52dfa739" />
 
 ### Virtual Machine
 
