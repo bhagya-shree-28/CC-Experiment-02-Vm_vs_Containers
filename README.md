@@ -2,7 +2,6 @@
 
 A hands-on comparison of **Virtual Machines (VMs)** and **Docker containers** using CPU, memory, disk I/O, network and a small FastAPI application as benchmarks.
 
-**Author:** Soumya Surpur · Cloud Computing Laboratory, Experiment 2
 
 ---
 
